@@ -241,6 +241,3 @@ It does not:
 This allows multiple plate detections from the same frame to be
 retained.
 
-## License
-
-Add your preferred project license here.
